@@ -1,0 +1,6 @@
+D:\Code\Github\RelaxLittle\src\RelaxLitte\RelaxLitte.IOC\obj\Debug\RelaxLitte.IOC.csprojResolveAssemblyReference.cache
+D:\Code\Github\RelaxLittle\src\RelaxLitte\RelaxLitte.IOC\bin\Debug\RelaxLitte.IOC.dll.config
+D:\Code\Github\RelaxLittle\src\RelaxLitte\RelaxLitte.IOC\bin\Debug\RelaxLitte.IOC.dll
+D:\Code\Github\RelaxLittle\src\RelaxLitte\RelaxLitte.IOC\bin\Debug\RelaxLitte.IOC.pdb
+D:\Code\Github\RelaxLittle\src\RelaxLitte\RelaxLitte.IOC\obj\Debug\RelaxLitte.IOC.dll
+D:\Code\Github\RelaxLittle\src\RelaxLitte\RelaxLitte.IOC\obj\Debug\RelaxLitte.IOC.pdb

@@ -1,0 +1,5 @@
+﻿{
+    "abstract": {
+        "RelaxLittle.IOC.Tests.AbstractTest" : [ "RelaxLittle.IOC.Tests.Test" ]
+    }
+}
